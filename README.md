@@ -1,20 +1,25 @@
-# Jekyll Materialize Starter Template v0.1
+## Evictionand
+Lorem ipsum ac conubia magna dictumst elementum magna sed leo odio ut, et sodales lorem habitant aenean amet malesuada velit interdum himenaeos senectus, sapien integer elit nunc sit porttitor faucibus porttitor arcu malesuada. sodales etiam ad in gravida egestas quam habitant scelerisque quis, tellus donec diam sodales metus curabitur aenean cursus egestas, auctor odio quisque sem porta nulla sem risus. commodo proin aliquet porttitor tincidunt ipsum.
 
-*A Site Starter Materialize Templates.
+## How to Install
+Lorem ipsum ac conubia magna dictumst elementum magna sed leo odio ut, et sodales lorem habitant aenean amet malesuada velit interdum himenaeos senectus, sapien integer elit nunc sit porttitor faucibus porttitor arcu malesuada.
 
-The theme is a fork of the [minima][1]
+```
+    yarn add loremIpsum
+    yarn
+    yarn start
+```
 
-![minima theme preview](/screenshot.png)
+Etiam ad in gravida egestas quam habitant scelerisque quis, tellus donec diam sodales metus curabitur aenean cursus egestas, auctor odio quisque sem porta nulla sem risus. commodo proin aliquet porttitor tincidunt ipsum velit vivamus fermentum suscipit, neque semper praesent etiam duis proin non turpis mauris venenatis, inceptos sit curae commodo curae leo auctor tempor. hac himenaeos ante luctus eget torquent proin est nostra porttitor, praesent mattis vitae dui purus mauris quis morbi etiam, pharetra volutpat viverra primis aliquam justo interdum odio.
 
+## FAQs
+### Lorem Ipsum Lorem?
+Lorem ipsum ac conubia magna dictumst elementum magna sed leo odio ut, et sodales lorem habitant aenean amet malesuada velit interdum himenaeos senectus, sapien integer elit nunc sit porttitor faucibus porttitor arcu malesuada. sodales etiam ad in gravida egestas quam habitant scelerisque quis.
 
-# License
+### Ipsum Ipsum Lorem?
+Lorem ipsum ac conubia magna dictumst elementum magna sed leo odio ut, et sodales lorem habitant aenean amet malesuada velit interdum himenaeos senectus, sapien integer elit nunc sit porttitor faucibus porttitor arcu malesuada. sodales etiam ad in gravida egestas quam habitant scelerisque quis.
 
-The theme is available as open source under the terms of the [MIT License][2].
+### Lorem Ipsum Ipsum?
+Lorem ipsum ac conubia magna dictumst elementum magna sed leo odio ut, et sodales lorem habitant aenean amet malesuada velit interdum himenaeos senectus, sapien integer elit nunc sit porttitor faucibus porttitor arcu malesuada. sodales etiam ad in gravida egestas quam habitant scelerisque quis.
 
-[Materialize][3] a  modern responsive front-end framework based on Material Design
-
-Copyright © 2017 Marco Damiani. Powered by <a href="http://jekyllrb.com">Jekyll</a>
-
-[1]: https://github.com/jekyll/minima
-[2]: https://opensource.org/licenses/MIT
-[3]: http://materializecss.com/
+[Jekyll README](docs/jekyll-readme.md)
