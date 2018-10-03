@@ -26,7 +26,7 @@ permalink: /carousel/
           </div>
           <div class="carousel-item blue white-text" href="#four!" style="transform: translateX(0px) translateX(-953.906px) translateZ(0px); z-index: -1; opacity: 1; display: block;">
             <h2>Fourth Panel</h2>
-            <p class="white-text">This is your fourth panel</p>
+            <p class="white-text">This is your fourth panel ${page.length}</p>
           </div>
         <ul class="indicators"><li class="indicator-item active"></li><li class="indicator-item"></li><li class="indicator-item"></li><li class="indicator-item"></li></ul></div>
     </div>
